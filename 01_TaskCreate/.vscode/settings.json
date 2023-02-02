@@ -9,5 +9,12 @@
     ],
     "idf.portWin": "COM3",
     "idf.pythonBinPathWin": "C:\\Users\\Cemal\\.espressif\\python_env\\idf4.4_py3.8_env\\Scripts\\python.exe",
-    "idf.toolsPathWin": "C:\\Users\\Cemal\\.espressif"
+    "idf.toolsPathWin": "C:\\Users\\Cemal\\.espressif",
+    "files.associations": {
+        "stdio.h": "c",
+        "freertos.h": "c",
+        "esp_log.h": "c",
+        "*.inc": "c"
+    },
+    "idf.flashType": "UART"
 }
